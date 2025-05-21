@@ -18,7 +18,7 @@ TD-CNNLSTM-LungNet integrates Time-Distributed Convolutional Neural Networks wit
 
 The model is trained and evaluated on the **COVID-US** dataset, a comprehensive dataset of endoscopic images and videos from the GI tract.
 
-🔗 [Access HyperKvasir Dataset](https://github.com/nrc-cnrc/COVID-US)
+🔗 [Access COVID-US Dataset](https://github.com/nrc-cnrc/COVID-US)
 
 
 ## Citation
